@@ -1,0 +1,12 @@
+Javascript. - Node Engine 
+ - Intially made for html.
+ - Evovled from that thing to everywhere - Javascript. 
+ - It can run on any device -  Node Engine
+ - Based on Ecmascript - 2016,2017,2021.
+ - Vanilla Javascript. 
+ - reads and compiles to machine to machine
+ - No need of semicolons
+
+ 
+
+Ecmascript
