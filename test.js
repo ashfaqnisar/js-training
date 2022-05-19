@@ -71,6 +71,8 @@ const n2 = 1 //number
 console.log(n1 + n2)
 console.log(n2 + n1)
 
+console.log(1 - "1")
+
 console.log(n1 === n2)
 
 
@@ -205,6 +207,20 @@ switch (sampleNum) {
     default: 
         console.log("Default");
 }
+
+
+// Functions 
+function sum(a, b = 10) {
+    return `The addition of ${a} and ${b} is ${a + b}`;
+}
+
+// Arrow Functions
+const sum1 = (a, b) => {
+    return `The addition of ${a} and ${b} is ${a + b}`;
+}
+
+// primes , factorial , fibonacci
+console.log(sum(20, 20));
 
 
 
