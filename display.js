@@ -202,7 +202,7 @@ console.log(arr7)
 
 
 console.log(arr7.splice(2, 0, 4, 5,6))
-console.log("tessrtefgasf", arr7)
+console.log("", arr7)
 
 
 console.log(arr7.reverse())
